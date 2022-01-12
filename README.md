@@ -54,7 +54,8 @@ QR_Decomposition(a)
 
 ## Output
 
-![cringe](qrd.png)
+![cringe](https://user-images.githubusercontent.com/93427208/149141456-ada8c87b-9940-4a4a-9c2c-5c32192963db.png)
+
 
 
 
